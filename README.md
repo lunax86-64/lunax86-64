@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lunax86-64
 - 👀 I’m interested in Biotechnology 🔬
-- 🌱 I’m currently learning Everything
+- 🌱 I’m currently learning Vulkan and its computational abilities
 - 📫 You can reach me on Discord 😉
 
 <!---
